@@ -1,10 +1,4 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', monospace;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: 'source-code-pro Courier New', monospace;
 }
