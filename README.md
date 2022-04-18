@@ -6,7 +6,7 @@
 
 ## Built With
 
-- HTML, CSS, React
+- REACT, JSX, CSS
 
 ## Getting Started
 
