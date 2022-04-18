@@ -24,8 +24,9 @@ To get a local copy up and running follow these setup steps.
 **Install**
 
 - On your terminal run : `npm i`
-- To start the development server : `npm run start`
-- To build the project : `npm build`
+- To run the app in the development mode : `npm start`
+- Launch the test runner : `npm test`
+- To build the app for production : `npm run build`
 - In case you run into any errors please raise an [issue](https://github.com/Yazino12/math-magicians/issues).
 
 **Usage**
