@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.91014d2b.css","mappings":"AAAA,KAEE,8BACF,CCHA,QDCE,QCGF,CAJA,GAEE,aAAc,CADd,cAGF","sources":["index.css","App.css"],"sourcesContent":["body {\r\n  margin: 0;\r\n  font-family: 'Segoe UI', monospace;\r\n}\r\n","h1 {\r\n  font-size: 2rem;\r\n  color: #78c9aa;\r\n  margin: 0;\r\n}\r\n"],"names":[],"sourceRoot":""}
