@@ -1,4 +1,15 @@
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 900px;
   margin: 0;
   font-family: 'Segoe UI', monospace;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
 }
