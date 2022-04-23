@@ -6,7 +6,11 @@
 
 ## Built With
 
-- REACT, JSX, CSS
+- Javascript
+- HTML
+- CSS
+- JSX
+- React
 
 ## Getting Started
 
