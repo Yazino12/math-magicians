@@ -1,15 +1,13 @@
 import React from 'react';
-import Calculator from './components/Calculator';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Container from './components/Container';
 
-class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
-
-  render() {
-    return <Calculator />;
-  }
+function App() {
+  return (
+    <Router>
+      <Container />
+    </Router>
+  );
 }
 
 export default App;
