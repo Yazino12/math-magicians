@@ -39,13 +39,19 @@ To get a local copy up and running follow these setup steps.
 
 ## Live
 
-- Link here: [Live](https://yazino12.github.io/math-magicians/)
+- Link here: [Github-Pages](https://yazino12.github.io/math-magicians/)
+- Link here: [Heroku](https://math-magiciansapp.herokuapp.com/)
+- Link here: [Netlify](https://enchanting-pastelito-4c37d2.netlify.app/)
 
 ## Authors
 
 👤 **Yasin**
 
 - GitHub: [@Yazino12](https://github.com/Yazino12)
+
+👤 **Ismail**
+
+- GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 
 ## 🤝 Contributing
 
