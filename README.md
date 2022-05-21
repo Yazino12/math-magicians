@@ -16,14 +16,14 @@
 
 To get a local copy up and running follow these setup steps.
 
+**Prerequisites**
+
+- You need to have `node.js` installed in your system
+
 **Setup**
 
 - Open terminal and clone the project: `git clone https://github.com/Yazino12/math-magicians.git`
 - cd into the directory `math-magicians`
-
-**Prerequisites**
-
-- You need to have `node.js` installed in your system
 
 **Install**
 
